@@ -1,5 +1,6 @@
 "# receipt-processor" 
 
+
 ```markdown
 # Receipt Processor Challenge
 
